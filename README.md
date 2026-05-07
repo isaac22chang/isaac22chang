@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @isaac22chang
-- 👀 I’m interested in machine learning and cyber security.
-- 🌱 I’m currently learning about machine learning(sklearn, tensorflow, etc)
-- 💞️ I’m looking to collaborate on any projects related to ML or cybersecurity
+- 👀 I’m interested in developing and improving AI agents at real-world tasks
+- 🌱 Currently interested in Cybersecurity x AI
 - 📫 How to reach me isaac22chang@gmail.com
 
 <!---
